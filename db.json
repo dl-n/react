@@ -1,0 +1,375 @@
+{
+
+
+  "reactcourses":[
+    {
+      "id":1,
+      "basename":"React",
+      "cname":"Basics of React",
+      "url":"https://i.ibb.co/7bP63K8/r2.png",
+      "content":"content of basics of React",
+
+      "outlet":[
+        {
+          "topic":"Introduction to React"
+        },
+        {
+          "topic":"Original DOM vs Virtual DOM"
+        },
+        {
+          "topic":"React Components"
+        },
+        {
+          "topic":"React Components with JSX"
+        },
+        {
+          "topic":"React Components with ES6"
+        },
+        {
+          "topic":"Props and state"
+        },
+        {
+          "topic":"Basics of Node and Installation"
+        },
+        {
+          "topic":"Introduction to Npm"
+        },
+        {
+          "topic":"Adding and removing modules"
+        },
+        {
+          "topic":"Creating an application using Create React App"
+        },
+        {
+          "topic":"Debugging and Default values"
+        },
+        {
+          "topic":"Creating Forms and Creating Table"
+        },
+        {
+          "topic":"Handling Events and Applying Filters"
+        },
+        {
+          "topic":"Stateful Component and Stateless Components"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "basename":"React",
+      "cname":"Inline Style",
+      "url":"https://i.ibb.co/t4RzTK3/r1.jpg",
+      "content":"content of Inline Style",
+
+      "outlet":[
+        {
+          "topic":"Introduction to React"
+        },
+        {
+          "topic":"Original DOM vs Virtual DOM"
+        },
+        {
+          "topic":"React Components"
+        },
+        {
+          "topic":"React Components with JSX"
+        },
+        {
+          "topic":"React Components with ES6"
+        },
+        {
+          "topic":"Props and state"
+        },
+        {
+          "topic":"Basics of Node and Installation"
+        },
+        {
+          "topic":"Introduction to Npm"
+        },
+        {
+          "topic":"Adding and removing modules"
+        },
+        {
+          "topic":"Creating an application using Create React App"
+        },
+        {
+          "topic":"Debugging and Default values"
+        },
+        {
+          "topic":"Creating Forms and Creating Table"
+        },
+        {
+          "topic":"Handling Events and Applying Filters"
+        },
+        {
+          "topic":"Stateful Component and Stateless Components"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        }
+      ]
+    },
+    {
+      "id":3,
+      "basename":"React",
+      "cname":"API Database",
+      "url":"https://i.ibb.co/ZVNHRsK/r3.jpg",
+      "content":"content of API Database",
+
+      "outlet":[
+        {
+          "topic":"Introduction to React"
+        },
+        {
+          "topic":"Original DOM vs Virtual DOM"
+        },
+        {
+          "topic":"React Components"
+        },
+        {
+          "topic":"React Components with JSX"
+        },
+        {
+          "topic":"React Components with ES6"
+        },
+        {
+          "topic":"Props and state"
+        },
+        {
+          "topic":"Basics of Node and Installation"
+        },
+        {
+          "topic":"Introduction to Npm"
+        },
+        {
+          "topic":"Adding and removing modules"
+        },
+        {
+          "topic":"Creating an application using Create React App"
+        },
+        {
+          "topic":"Debugging and Default values"
+        },
+        {
+          "topic":"Creating Forms and Creating Table"
+        },
+        {
+          "topic":"Handling Events and Applying Filters"
+        },
+        {
+          "topic":"Stateful Component and Stateless Components"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        }
+      ]
+    },
+    {
+      "id":4,
+      "basename":"React",
+      "cname":"Redux Concepts",
+      "url":"https://i.ibb.co/r7QvnvY/r4.png",
+      "content":"content of Redux Concepts",
+
+      "outlet":[
+        {
+          "topic":"Introduction to React"
+        },
+        {
+          "topic":"Original DOM vs Virtual DOM"
+        },
+        {
+          "topic":"React Components"
+        },
+        {
+          "topic":"React Components with JSX"
+        },
+        {
+          "topic":"React Components with ES6"
+        },
+        {
+          "topic":"Props and state"
+        },
+        {
+          "topic":"Basics of Node and Installation"
+        },
+        {
+          "topic":"Introduction to Npm"
+        },
+        {
+          "topic":"Adding and removing modules"
+        },
+        {
+          "topic":"Creating an application using Create React App"
+        },
+        {
+          "topic":"Debugging and Default values"
+        },
+        {
+          "topic":"Creating Forms and Creating Table"
+        },
+        {
+          "topic":"Handling Events and Applying Filters"
+        },
+        {
+          "topic":"Stateful Component and Stateless Components"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        },
+        {
+          "pre":"And required basic knowledge to undrestand syntax"
+        }
+      ]
+    },
+    {
+      "id":5,
+      "basename":"React",
+      "cname":"Advance React",
+      "url":"https://i.ibb.co/Lg6fkFH/r5.jpg",
+      "content":"content of Advance React",
+
+      "outlet":[
+        {
+          "topic":"Introduction to React"
+        },
+        {
+          "topic":"Original DOM vs Virtual DOM"
+        },
+        {
+          "topic":"React Components"
+        },
+        {
+          "topic":"React Components with JSX"
+        },
+        {
+          "topic":"React Components with ES6"
+        },
+        {
+          "topic":"Props and state"
+        },
+        {
+          "topic":"Basics of Node and Installation"
+        },
+        {
+          "topic":"Introduction to Npm"
+        },
+        {
+          "topic":"Adding and removing modules"
+        },
+        {
+          "topic":"Creating an application using Create React App"
+        },
+        {
+          "topic":"Debugging and Default values"
+        },
+        {
+          "topic":"Creating Forms and Creating Table"
+        },
+        {
+          "topic":"Handling Events and Applying Filters"
+        },
+        {
+          "topic":"Stateful Component and Stateless Components"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        },
+        {
+          "pre":"And required basic knowledge to undrestand syntax"
+        }
+      ]
+    },
+    {
+      "id":6,
+      "basename":"React",
+      "cname":"React Hooks",
+      "url":"https://i.ibb.co/2h62zR4/r6.png",
+      "content":"content of React Hooks",
+      "outlet":[
+        {
+          "topic":"Introduction to React"
+        },
+        {
+          "topic":"Original DOM vs Virtual DOM"
+        },
+        {
+          "topic":"React Components"
+        },
+        {
+          "topic":"React Components with JSX"
+        },
+        {
+          "topic":"React Components with ES6"
+        },
+        {
+          "topic":"Props and state"
+        },
+        {
+          "topic":"Basics of Node and Installation"
+        },
+        {
+          "topic":"Introduction to Npm"
+        },
+        {
+          "topic":"Adding and removing modules"
+        },
+        {
+          "topic":"Creating an application using Create React App"
+        },
+        {
+          "topic":"Debugging and Default values"
+        },
+        {
+          "topic":"Creating Forms and Creating Table"
+        },
+        {
+          "topic":"Handling Events and Applying Filters"
+        },
+        {
+          "topic":"Stateful Component and Stateless Components"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        },
+        {
+          "pre":"And required basic knowledge to undrestand syntax"
+        }
+      ]
+    } 
+  ]
+
+}
