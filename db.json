@@ -6,7 +6,7 @@
       "id":1,
       "basename":"React",
       "cname":"Basics of React",
-      "url":"https://i.ibb.co/7bP63K8/r2.png",
+      "url":"./images/react1.png",
       "content":"content of basics of React",
 
       "outlet":[
@@ -66,7 +66,7 @@
       "id":2,
       "basename":"React",
       "cname":"Inline Style",
-      "url":"https://i.ibb.co/t4RzTK3/r1.jpg",
+      "url":"./images/react2.png",
       "content":"content of Inline Style",
 
       "outlet":[
@@ -126,7 +126,7 @@
       "id":3,
       "basename":"React",
       "cname":"API Database",
-      "url":"https://i.ibb.co/ZVNHRsK/r3.jpg",
+      "url":"./images/react3.png",
       "content":"content of API Database",
 
       "outlet":[
@@ -186,7 +186,7 @@
       "id":4,
       "basename":"React",
       "cname":"Redux Concepts",
-      "url":"https://i.ibb.co/r7QvnvY/r4.png",
+      "url":"./images/react4.png",
       "content":"content of Redux Concepts",
 
       "outlet":[
@@ -249,7 +249,7 @@
       "id":5,
       "basename":"React",
       "cname":"Advance React",
-      "url":"https://i.ibb.co/Lg6fkFH/r5.jpg",
+      "url":"./images/react5.png",
       "content":"content of Advance React",
 
       "outlet":[
@@ -312,7 +312,7 @@
       "id":6,
       "basename":"React",
       "cname":"React Hooks",
-      "url":"https://i.ibb.co/2h62zR4/r6.png",
+      "url":"./images/react6.jpg",
       "content":"content of React Hooks",
       "outlet":[
         {
